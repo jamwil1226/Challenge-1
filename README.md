@@ -22,4 +22,4 @@ All feedback and contributions welcome!
 Thank you!
 
 Submitted by Jamie Williams
-![Jamie Williams Headshot](./assets/images/jamie-williams-headshot.jpg)
+![Jamie Williams Headshot](./assets/images/jamie-williams-headshot.png)
