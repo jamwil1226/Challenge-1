@@ -2,7 +2,7 @@
 
 # Code Refactor for Horiseon Website for Challenge 1
 
-### This challenge entails refactoring code for the Horiseon website in order for it to meet accessibility standards.
+### This challenge entails refactoring code for the Horiseon website in order for it to meet accessibility standards.  
 
 ### The following alt text has been added to the images in the website.
 
@@ -24,6 +24,6 @@
 
 ### Thank you!
 
-### Submitted by _Jamie Williams_
+### Submitted by _Jamie Williams_ 
 
 ![Jamie Williams Headshot](./assets/images/jamie-headshot.png)
