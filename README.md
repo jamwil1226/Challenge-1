@@ -17,6 +17,8 @@ The HTML and CSS files have been refactored to add comments and structure for im
 
 ![HTML Screenshot 2](./assets/images/html-2-screenshot.jpg)
 
+![CSS Screenshot](./assets/images/css-screenshot.png)
+
 All feedback and contributions welcome!
 
 Thank you!
