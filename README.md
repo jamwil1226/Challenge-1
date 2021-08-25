@@ -5,7 +5,7 @@ This challenge entails refactoring code for the Horiseon website in order for it
 
 The following alt text has been added to the images in the website.
 
-![Alt text for Search Engine Optimation](./assets/images/social-media-marketing-screenshot.jpg)
+![Alt text for Search Engine Optimization](./assets/images/social-media-marketing-screenshot.jpg)
 
 ![Alt text for Online Reputation Management](./assets/images/online-reputation-management-screenshot.jpg)
 
