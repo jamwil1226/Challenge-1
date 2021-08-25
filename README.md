@@ -23,6 +23,6 @@ All feedback and contributions welcome!
 
 Thank you!
 
-Submitted by Jamie Williams
+Submitted by _Jamie Williams_
 
 ![Jamie Williams Headshot](./assets/images/jamie-headshot.png)
