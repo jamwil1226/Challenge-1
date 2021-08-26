@@ -20,6 +20,8 @@
 
 ![CSS Screenshot](./assets/images/css-screenshot.png)  
 
+### Click here to view: https://jamwil1226.github.io/Challenge-1/
+
 ### All feedback and contributions welcome!
 
 ### Thank you!
